@@ -1,0 +1,11 @@
+<sdf version="1.6">
+  <model name="dummy_materials"/>
+    <collision name="collision">
+        <geometry>
+            <plane>
+            <normal>0 0 1</normal>
+            <size>20 20</size>  <!-- Adjust to desired size -->
+            </plane>
+        </geometry>
+    </collision>
+</sdf>

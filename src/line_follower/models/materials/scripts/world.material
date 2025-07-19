@@ -1,0 +1,26 @@
+material Spa
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture spa.png
+            }
+        }
+    }
+}
+material Monza
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture monza.png
+            }
+        }
+    }
+}
